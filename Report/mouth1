@@ -1,0 +1,9 @@
+PR:
+  https://github.com/riscv/sail-riscv/pull/550 添加zvbc扩展
+  https://github.com/riscv/sail-riscv/pull/558 添加zvbb扩展vwsll指令
+  https://github.com/riscv/sail-riscv/pull/564 rm模式bug
+  https://github.com/riscv/sail-riscv/pull/539 删除makefile重复内容
+
+技术分享：
+  sail-riscv rvfi连接
+  sail-riscv v扩展测试心得
